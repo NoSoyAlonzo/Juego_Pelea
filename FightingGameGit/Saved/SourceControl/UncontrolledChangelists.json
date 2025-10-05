@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documentos/GitHub/Juego_Pelea/FightingGameGit/Content/Levels/AssetLevel.umap",
+				"E:/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		}
+	]
+}
